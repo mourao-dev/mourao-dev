@@ -2,7 +2,7 @@ Hi there 👋
 
 My name is Beatriz!
 
-I am a IT student and a technology enthusiast.
+I am an IT student and a technology enthusiast.
 
 - 🔭 I’m currently working as a Junior Programmer since march/2022 (working with Python, C# and Javascript). 
 - 🌱 I’m currently learning Python and C.
