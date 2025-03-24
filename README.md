@@ -2,10 +2,8 @@ Hi there 👋
 
 My name is Beatriz!
 
-I am an IT student and a technology enthusiast.
-
-- 🔭 C# Developer. 
-- 🌱 I’m currently learning C# and Python.
+- 🔭 Jr Full-stack developer. 
+- 🌱 I’m currently learning React and Python.
 - 📫 How to reach me: beatrizamourao@gmail.com
 - 😄 Pronouns: She/Her
 
